@@ -119,12 +119,12 @@ The proposed methodology is intended to:
 -	Improve the safety and reliability of highway infrastructure
 
 # References
-Federal Highway Administration. (2020). Successful practices for quality management of pavement surface condition data collection and analysis: Phase I, Task 2—Document of successful practices (FHWA-RC-20-007). U.S. Department of Transportation.
-Federal Highway Administration. (2023). Transportation asset management. U.S. Department of Transportation.
-Obonguta, F., Mizutani, D., Sovanneth, N., & Kaito, K. (2026). Transferability of pavement performance models: Evaluation of direct and updated Markov model transfer. Results in Engineering, 29, 109020. https://doi.org/10.1016/j.rineng.2026.109020
-Padfield, J. R. (2018). Implementation of continuous improvement for INDOT maintenance (training and tracking process improvements) (Joint Transportation Research Program Publication No. FHWA/IN/JTRP-2018/19). Purdue University. https://doi.org/10.5703/1288284316864
-Shon, H., & Lee, J. (2021). Integrating multi-scale inspection, maintenance, rehabilitation, and reconstruction decisions into system-level pavement management systems. Transportation Research Part C: Emerging Technologies, 131, 103328. https://doi.org/10.1016/j.trc.2021.103328
-Yamany, M. S., Abraham, D. M., Nantung, T. E., Labi, S., & Abaza, K. A. (2025a). Probabilistic modelling of pavement performance using Markov chains: A critical review. International Journal of Pavement Engineering, 26(1), 2548321. https://doi.org/10.1080/10298436.2025.2548321
-Yamany, M. S., Abraham, D. M., Ventresca, M., Nantung, T. E., & Labi, S. (2025b). Probabilistic optimization of pavement preventive maintenance using multi-objective genetic algorithm. Innovative Infrastructure Solutions, 10, 194. https://doi.org/10.1007/s41062-025-01963-6
-Yao, L., Leng, Z., Jiang, J., & Ni, F. (2022). Large-scale maintenance and rehabilitation optimization for multi-lane highway asphalt pavement: A reinforcement learning approach. IEEE Transactions on Intelligent Transportation Systems, 23(11), 22094–22105. https://doi.org/10.1109/TITS.2022.3161689
+- Federal Highway Administration. (2020). Successful practices for quality management of pavement surface condition data collection and analysis: Phase I, Task 2—Document of successful practices (FHWA-RC-20-007). U.S. Department of Transportation.
+- Federal Highway Administration. (2023). Transportation asset management. U.S. Department of Transportation.
+- Obonguta, F., Mizutani, D., Sovanneth, N., & Kaito, K. (2026). Transferability of pavement performance models: Evaluation of direct and updated Markov model transfer. Results in Engineering, 29, 109020. https://doi.org/10.1016/j.rineng.2026.109020
+- Padfield, J. R. (2018). Implementation of continuous improvement for INDOT maintenance (training and tracking process improvements) (Joint Transportation Research Program Publication No. FHWA/IN/JTRP-2018/19). Purdue University. https://doi.org/10.5703/1288284316864
+- Shon, H., & Lee, J. (2021). Integrating multi-scale inspection, maintenance, rehabilitation, and reconstruction decisions into system-level pavement management systems. Transportation Research Part C: Emerging Technologies, 131, 103328. https://doi.org/10.1016/j.trc.2021.103328
+- Yamany, M. S., Abraham, D. M., Nantung, T. E., Labi, S., & Abaza, K. A. (2025a). Probabilistic modelling of pavement performance using Markov chains: A critical review. International Journal of Pavement Engineering, 26(1), 2548321. https://doi.org/10.1080/10298436.2025.2548321
+- Yamany, M. S., Abraham, D. M., Ventresca, M., Nantung, T. E., & Labi, S. (2025b). Probabilistic optimization of pavement preventive maintenance using multi-objective genetic algorithm. Innovative Infrastructure Solutions, 10, 194. https://doi.org/10.1007/s41062-025-01963-6
+- Yao, L., Leng, Z., Jiang, J., & Ni, F. (2022). Large-scale maintenance and rehabilitation optimization for multi-lane highway asphalt pavement: A reinforcement learning approach. IEEE Transactions on Intelligent Transportation Systems, 23(11), 22094–22105. https://doi.org/10.1109/TITS.2022.3161689
 
